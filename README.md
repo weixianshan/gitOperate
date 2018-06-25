@@ -14,5 +14,5 @@ git 操作步骤:
   (本地库内删除: git rm filename)
   提交到本地库并备注(此时变更仍在本地): git commit -m "first commit"
   自动更新变化的文件: git commit -a(a --- auto)
-  将本地文件提交到github的 projectname 版本库中,此时才更新了本地变更到github服务上
+  将本地文件提交到github的 projectname 版本库中,此时才更新了本地变更到github服务上: git push origin master
   (注: 修改文件后 , 从git add 或者 git commit -a重复操作)
