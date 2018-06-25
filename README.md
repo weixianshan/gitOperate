@@ -10,6 +10,7 @@ git 操作步骤:
 2、git提交项目到github远程仓库上:
   切换到要提交的项目目录下
   初始化一个本地库: git init
+  创建一个本地仓库origin, 使用命令"git remote add origin git@github.com:yourName/yourRepo.git"
   添加文件到本地仓库: git add filename
   (本地库内删除: git rm filename)
   提交到本地库并备注(此时变更仍在本地): git commit -m "first commit"
