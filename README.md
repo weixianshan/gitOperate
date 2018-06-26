@@ -34,3 +34,5 @@ git 操作步骤:
 
   (注: 修改文件后 , 从git add 或者 git commit -a重复操作)
 
+
+注: mind_map.png 来自于 http://www.cnblogs.com/1-2-3/archive/2010/07/18/git-commands.html
